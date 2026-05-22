@@ -1,0 +1,14 @@
+body{
+    background-color:grey;
+    align-item: center;
+}
+h1{
+    color:cornflowerblue;
+    font-size:48px;
+    margin-bottom:20px;
+}
+p{
+    background-color:crimson;
+    color:white;
+    font-size:18px;
+}
